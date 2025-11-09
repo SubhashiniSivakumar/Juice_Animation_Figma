@@ -25,13 +25,14 @@ Click below to interact with the design directly in Figma:
 - [LinkedIn](https://www.linkedin.com/posts/subhashini-sivakumar-837277262_uiux-figmadesign-smartanimate-ugcPost-7393198807255220224-On-V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEB3ousBWmkgrfFerMMorvEUqWjq7yWdiU4)
 <hr>
 <p float="left">
-<img src="Design Page.png" width="500">
-<img src="Final Page.png" width="500">
+
 <img src="Page 1.png" width="150">
 <img src="Page 2.png" width="150">
 <img src="Page 3.png" width="150">
 <img src="Page 4.png" width="150">
 <img src="Page 5.png" width="150">
 <img src="Page 6.png" width="150">
+<img src="Design Page.png" width="500">
+<img src="Final Page.png" width="500">
 <img src="Props Page.png" width="500">
 </p>
