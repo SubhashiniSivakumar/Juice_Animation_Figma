@@ -33,6 +33,6 @@ Click below to interact with the design directly in Figma:
 <img src="Page 5.png" width="200">
 <img src="Page 6.png" width="200"><br>
 <img src="Design Page.png" width="400">
-<img src="Final Page.png" width="400">
 <img src="Props Page.png" width="400">
+<img src="Final Page.png" width="400">
 </p>
